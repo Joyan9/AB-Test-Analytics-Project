@@ -108,8 +108,7 @@ mobelhaus-ab-test/
 │   ├── conversions_data.csv       # 8,572 order records
 │   └── engagement_data.csv        # Interaction metrics
 ├── analysis/
-│   ├── EDA.ipynb                  # Exploratory analysis & calculations
-│   ├── statistical_tests.ipynb    # Chi-square, significance testing
+│   ├── Analysis.ipynb                  # Exploratory analysis & statisitical tests
 ├── deliverables/
 │   ├── strategic_memo.md          # Final recommendation (1-page)
 │   ├── chart1_rps_comparison.png  # Revenue per session comparison
